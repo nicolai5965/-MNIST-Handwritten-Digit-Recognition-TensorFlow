@@ -1,6 +1,5 @@
 # -MNIST-Handwritten-Digit-Recognition-TensorFlow
 
-#MNIST Handwritten Digit Recognition
 This repository contains a TensorFlow implementation of a Convolutional Neural Network (CNN) for handwritten digit recognition using the MNIST dataset.
 
 ## Data Preparation
